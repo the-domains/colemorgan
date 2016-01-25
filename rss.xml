@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cole Morgan | ]]></title>
-        <description><![CDATA[Cole Morgan | ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Cole Morgan | Entrepreneur & Artist ]]></title>
+        <description><![CDATA[Cole Morgan | Entrepreneur & Artist ]]></description>
+        <link>https://thegrid.ai/colemorgan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 18:11:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 18:57:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/colemorgan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>Cole acts as a shepherd for digital projects, taking them from idea, to concept, to functional product, right into the hands of the world. He has an innate ability to identify, evaluate, and simplify solutions to complex problems, and communicate those solutions in a way others can easily understand. Regardless of shifting technologies, Cole has the ability to cultivate highly specific solutions to any level of vision, scope, or needs. Whether on mobile, tablet, web or other, his skill set allows him to develop solutions that accentuate the power, usage and connectivity of any digital exposure or brand presence for any market at any time. Cole constructs the bridge over the gap between an idea and the end user.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c6ecea8-ba13-4e8b-9f1e-dcefa71ae86d.jpg"></article>]]></description>
-            <link>undefinedabout/index.html</link>
+            <description><![CDATA[<article><h1>About</h1><p>Cole acts as a shepherd for digital projects, taking them from idea, to concept, to functional product, right into the hands of the world. He has an innate ability to identify, evaluate, and simplify solutions to complex problems, and communicate those solutions in a way others can easily understand. Regardless of shifting technologies, Cole has the ability to cultivate highly specific solutions to any level of vision, scope, or needs. Whether on mobile, tablet, web or other, his skill set allows him to develop solutions that accentuate the power, usage and connectivity of any digital exposure or brand presence for any market at any time. Cole constructs the bridge over the gap between an idea and the end user.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0259e17-2127-4d33-a185-ec804e1583f3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/colemorgan/about/index.html</link>
             <guid isPermaLink="false">40bebfb4-86cc-4c34-a098-e71ce3e91ce2</guid>
-            <pubDate>Mon, 25 Jan 2016 18:10:39 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 18:57:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
