@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://medium.com/the-biz-stone-collection/ceo-advice-from-a-new-ceo-1ecfe8ed9b70#.ouofjodub'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - people
   - crusher
 description: "Usually advice for new CEOs comes from those who have made a career for themselves out of those three letters. I'm new to this particular C-Job having taken it on officially when Ben and I founded Jelly. I felt the time was right after working alongside CEOs over the last fifteen years or more."
-datePublished: '2016-01-25T20:38:15.715Z'
-dateModified: '2016-01-25T20:38:07.001Z'
+datePublished: '2016-01-25T23:04:17.741Z'
+dateModified: '2016-01-25T23:04:08.822Z'
 author:
   - name: Biz Stone
     url: 'https://medium.com/@biz'
@@ -58,18 +57,17 @@ app_links:
   - url: 'https://medium.com/the-biz-stone-collection/ceo-advice-from-a-new-ceo-1ecfe8ed9b70'
     type: web
 title: CEO Advice from a New CEO - The Biz Stone Collection
+sourcePath: _posts/2016-01-25-ceo-advice-from-a-new-ceo-the-biz-stone-collection.md
+published: true
 authors: []
 publisher:
   name: Medium
   domain: medium.com
   url: 'https://medium.com'
   favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
-sourcePath: _posts/2016-01-25-ceo-advice-from-a-new-ceo-the-biz-stone-collection.md
-published: true
+url: ceo-advice-from-a-new-ceo-the-biz-stone-collection/index.html
 _type: Article
 _context: 'http://schema.org'
 
 ---
-Latest read 1/25/16
-
 <article style=""><h1>CEO Advice from a New CEO - The Biz Stone Collection</h1><p>Usually advice for new CEOs comes from those who have made a career for themselves out of those three letters&amp;period; I'm new to this particular C-Job having taken it on officially when Ben and I founded Jelly&amp;period; I felt the time was right after working alongside CEOs over the last fifteen years or more&amp;period;</p><img src="https://cdn-images-1.medium.com/max/800/1*AdT43gu-WrPLi9guc6Odww.jpeg" /></article>
