@@ -4,14 +4,21 @@
         <description><![CDATA[Cole Morgan | Entrepreneur & Artist ]]></description>
         <link>https://thegrid.ai/colemorgan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 19:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 19:05:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/colemorgan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static1.squarespace.com/static/556b572be4b0923c3c6e888d/t/556b59c5e4b016f4bc2456a2/1443989366449/?format=1500w">]]></description>
+            <link>https://thegrid.ai/colemorgan/8bff52e4-bce2-4eed-9060-18280cfb3fd1/index.html</link>
+            <guid isPermaLink="false">8bff52e4-bce2-4eed-9060-18280cfb3fd1</guid>
+            <pubDate>Mon, 25 Jan 2016 19:04:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p>Cole acts as a shepherd for digital projects, taking them from idea, to concept, to functional product, right into the hands of the world. He has an innate ability to identify, evaluate, and simplify solutions to complex problems, and communicate those solutions in a way others can easily understand. Regardless of shifting technologies, Cole has the ability to cultivate highly specific solutions to any level of vision, scope, or needs. Whether on mobile, tablet, web or other, his skill set allows him to develop solutions that accentuate the power, usage and connectivity of any digital exposure or brand presence for any market at any time. Cole constructs the bridge over the gap between an idea and the end user.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bb48819f21d1f1ac19f45a28cb57e15475dc24e.jpg"></article>]]></description>
             <link>https://thegrid.ai/colemorgan/about/index.html</link>
             <guid isPermaLink="false">40bebfb4-86cc-4c34-a098-e71ce3e91ce2</guid>
-            <pubDate>Mon, 25 Jan 2016 19:02:46 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 19:05:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
