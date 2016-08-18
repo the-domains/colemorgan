@@ -6,16 +6,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0.375
-  lightness: 1
+  lightness: 0.4880952
   brandColors:
     - '#dad6cc'
     - '#3e3225'
@@ -23,15 +23,15 @@ color:
     - '#91806d'
     - '#ccad86'
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: ColeMorgan
 opengraph:
   image: null
